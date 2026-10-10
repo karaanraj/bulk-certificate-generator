@@ -1,0 +1,17 @@
+{
+  "title": "Python Backend Workshop",
+  "recipients": [
+    {
+      "name": "Karan Raj",
+      "email": "karan@example.com",
+      "course": "Python Backend Workshop",
+      "completion_date": "2026-10-10"
+    },
+    {
+      "name": "Rahul Kumar",
+      "email": "rahul@example.com",
+      "course": "Python Backend Workshop",
+      "completion_date": "2026-10-10"
+    }
+  ]
+}
